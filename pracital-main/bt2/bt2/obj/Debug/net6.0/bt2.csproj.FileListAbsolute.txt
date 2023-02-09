@@ -1,0 +1,15 @@
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.csproj.AssemblyReference.cache
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.AssemblyInfoInputs.cache
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.AssemblyInfo.cs
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.csproj.CoreCompileInputs.cache
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\bin\Debug\net6.0\bt2.exe
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\bin\Debug\net6.0\bt2.deps.json
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\bin\Debug\net6.0\bt2.runtimeconfig.json
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\bin\Debug\net6.0\bt2.dll
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\bin\Debug\net6.0\bt2.pdb
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.dll
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\refint\bt2.dll
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.pdb
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\bt2.genruntimeconfig.cache
+C:\Users\young\source\repos\GeometryExample\bt2\bt2\obj\Debug\net6.0\ref\bt2.dll
