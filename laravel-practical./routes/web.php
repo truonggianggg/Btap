@@ -16,4 +16,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/',[SearchController::class,'search'])->name('web.search');
+Route::get("/", [\App\Http\Controllers\BookControllner::class,"list"]);
