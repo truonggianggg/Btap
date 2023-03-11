@@ -1,4 +1,4 @@
-package Address_Books_prac;
+package Address_Books;
 
 public class Contact {
     private String name;

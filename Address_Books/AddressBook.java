@@ -1,4 +1,4 @@
-package Address_Books_prac;
+package Address_Books;
 
 import java.util.HashMap;
 import java.util.Map;
