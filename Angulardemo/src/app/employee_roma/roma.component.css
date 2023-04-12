@@ -1,0 +1,18 @@
+.col-1.image {
+  margin-top: 20px;
+}
+.fa-solid.fa-circle-user{
+  font-size: 25px;
+}
+.row.person1 {
+  border-bottom: 2px solid black;
+}
+.col-11.infor {
+  padding-top: 10px ;
+  padding-bottom: 10px ;
+  padding-left: 25px ;
+}
+.name {
+  font-size: 25px;
+  font-weight: bolder;
+}
